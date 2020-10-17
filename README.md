@@ -1,4 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Chuck Norris Jokes 
+
+Try it live: Not Available Yet. 
+
+> Description
+
+- A simple react project done to show random Chuck Norris Jokis.
+- Project was built using the ICNDB JSON API to fetch jokes data. 
+
+> Technologies Used
+
+- React
+- JavaScript
+- HTML
+- CSS
+- JSON
+
 
 ## Available Scripts
 
