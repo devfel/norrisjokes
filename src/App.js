@@ -4,8 +4,8 @@ const API_RANDOM_JOKE = 'http://api.icndb.com/jokes/random';
 
 const App = () => {
   return (
-    <div class="box"> 
-      <h1>Another Chuck Norris Joke Generator</h1>
+    <div className="box"> 
+      <h3>Another Chuck Norris Joke Generator</h3>
       <p>Joke Here!!!</p>
       <button>Generate New Joke!</button>
     </div>
