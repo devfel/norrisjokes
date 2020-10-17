@@ -15,4 +15,27 @@ body {
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+.box p {
+  margin: 1rem;
+}
+
+.box button {
+  background-color: rgb(252, 252, 105);
+  border: 0;
+  border-radius: 3px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  color: saddlebrown;
+  padding: 1rem;
+  cursor: pointer;
+  /* transition: transform 0.1s ease-in; */
+}
+
+.box button:active {
+  transform: scale(0.98);
+}
+
+.box button:focus {
+  outline: none;
 }
