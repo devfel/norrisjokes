@@ -19,6 +19,10 @@ This is a simple react project done to show random Chuck Norris Jokes <br/>
 Project was built using the ICNDB JSON API to fetch jokes data, React HTML and CSS. 
 </p>
 
+  <p align="center">
+    <img  width="600px" src="./src/assets/chuck-norris-jokes.gif" alt="Chuck Norris Jokes"></a>
+  </p>
+
 ---
 
 ## 📝 Table of Contents
@@ -36,7 +40,7 @@ Project was built using the ICNDB JSON API to fetch jokes data, React HTML and C
 
 ## 🕹 Test Here <a name = "live"></a>
 
-Live link not available yet. 
+Live link not available yet.
 
 ---
 
